@@ -1,6 +1,8 @@
 # Keylogger
 A simple program that logs any key pressed by the user while the program is running.
 
+Requires installation of pynput and os.path.
+
 ####################################################################################################
 # Author: Jack Conley
 #
